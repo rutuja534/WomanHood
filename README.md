@@ -63,3 +63,7 @@ To run this project locally:
 - Open index.html in your browser, or use Live Server if using VS Code.
 ```
 
+## 🌐 Website Preview
+
+### 🏠 Homepage
+![Homepage](Home_pg.png)
