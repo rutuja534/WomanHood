@@ -61,7 +61,7 @@ WomanHood/
 ![Homepage](Home_pg.png)
 
 ### 💊 Symptom Tracker
-![Symptom Tracker](symptom_tracker.png)  
+![Symptom Tracker](symptom-tracker.png)  
 *"Track your physical symptoms and monitor changes during cycles or pregnancy."*
 
 ### 🤰 Pregnancy Tracker
