@@ -1,6 +1,6 @@
 **🩺 WomanHood – Empowering Women Through AI-Driven Healthcare**
 
-           - Wellness is a journey, not a destination.
+Wellness is a journey, not a destination.
 
 🔗 **Live Website**: [https://gilded-pudding-d03def.netlify.app/](https://gilded-pudding-d03def.netlify.app/)
 
@@ -50,13 +50,13 @@ WomanHood/
 ## 🚀 Getting Started Locally
 
 To run this project locally:
-
 ```bash
-git clone https://github.com/Umme-2003/WomanHood.git
-cd WomanHood
-Open index.html in your browser, or use Live Server if using VS Code.
+- git clone https://github.com/Umme-2003/WomanHood.git
+- cd WomanHood
+- Open index.html in your browser, or use Live Server if using VS Code.
 ```
-## 🌐 Website Preview
+
+**## 🌐 Website Preview**
 
 ### 🏠 Homepage
 ![Homepage](assets/screenshots/homepage.png)
