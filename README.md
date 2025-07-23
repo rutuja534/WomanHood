@@ -22,3 +22,14 @@ Whether you're navigating menstrual health, emotional well-being, or pregnancy �
 - 📱 Responsive and modern UI (built on bolt.new)
 
 - ☁️ Deployed on Netlify
+
+  🛠️ Tech Stack
+Technology	  Usage
+- HTML/CSS/JS	  Frontend structure & styling
+- Gemini 2.5 Flash	  AI-based responses
+- Bolt.new	  UI building tool
+- Netlify	            Hosting & deployment
+- Responsive Design	  Works across all screen sizes
+
+  **🌐 Live Website**
+🔗 Visit Here: https://gilded-pudding-d03def.netlify.app
