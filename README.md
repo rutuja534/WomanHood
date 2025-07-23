@@ -81,7 +81,7 @@ WomanHood/
 *"Curated wellness tips for mental, hormonal, and reproductive health."*
 
 ### 🔐 Login Page
-![Login](loginpage.png)  
+![Login](login_pg.png)  
 *"Simple and secure login to access personalized tracking features."*
 
 ## 🚀 Getting Started Locally
