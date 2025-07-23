@@ -1,15 +1,15 @@
-**🩺 WomanHood – Empowering Women Through AI-Driven Healthcare**
+### **🩺 WomanHood – Empowering Women Through AI-Driven Healthcare**
 
-Wellness is a journey, not a destination.
+**Wellness is a journey, not a destination.**
 
-🔗 **Live Website**: [https://gilded-pudding-d03def.netlify.app/](https://gilded-pudding-d03def.netlify.app/)
+### 🔗 **Live Website**: [https://gilded-pudding-d03def.netlify.app/](https://gilded-pudding-d03def.netlify.app/)
 
 **🌸 Description**
 WomanHood is a responsive, user-friendly web application dedicated to supporting women’s health through the power of AI-driven tools. It acts as a personal health companion — allowing users to track symptoms, mood, cycle, and pregnancy, while also receiving personalized health tips and resources powered by Gemini 2.5 Flash AI.
 
 Whether you're navigating menstrual health, emotional well-being, or pregnancy — WomanHood provides a safe, supportive, and tech-driven space.
 
-🚀 Features
+##**🚀 Features**
 - 💬 AI-Powered Responses via Gemini 2.5 Flash
 
 - 🧠 Mood Tracking & Cycle Monitoring
@@ -26,7 +26,7 @@ Whether you're navigating menstrual health, emotional well-being, or pregnancy �
 
 - ☁️ Deployed on Netlify
 
-  ## ⚙️ Built With
+## ⚙️ Built With
 
 - 🌐 **Bolt.new** – Low-code builder used for fast development
 - 💬 **Gemini 2.5 Flash API** – For AI-powered health chatbot
@@ -36,16 +36,22 @@ Whether you're navigating menstrual health, emotional well-being, or pregnancy �
 ## 📁 Project Structure
 WomanHood/
 │
-├── assets/ # Icons and images
-├── blog/ # Blog article content and design
-├── chatbot/ # Chat UI and script for Gemini API
-├── index.html # Home Page
-├── about.html
-├── services.html
-├── chat.html # Chatbot Page
-├── blog.html
-├── contact.html
-└── style.css
+├── .bolt/                 # Bolt project metadata
+├── src/                   # Source files and components
+│
+├── index.html             # Main HTML entry point
+├── README.md              # Project documentation (this file)
+├── .env                   # Environment variables
+├── .gitignore             # Git ignored files
+│
+├── package.json           # Project dependencies
+├── package-lock.json      # Dependency lock file
+├── tailwind.config.js     # Tailwind configuration
+├── postcss.config.js      # PostCSS config for Tailwind
+├── vite.config.ts         # Vite build configuration
+├── tsconfig.json          # TypeScript config
+├── tsconfig.app.json      # App-specific TS config
+└── tsconfig.node.json     # Node-related TS config
 
 ## 🚀 Getting Started Locally
 
