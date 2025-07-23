@@ -54,6 +54,36 @@ WomanHood/
 ├── tsconfig.app.json     # App-specific TS config
 └── tsconfig.node.json    # Node-related TS config
 ```
+
+## 🌐 Website Preview
+
+### 🏠 Homepage
+![Homepage](Home_pg.png)
+
+### 💊 Symptom Tracker
+![Symptom Tracker](symptomtracker.png)  
+*"Track your physical symptoms and monitor changes during cycles or pregnancy."*
+
+### 🤰 Pregnancy Tracker
+![Pregnancy Tracker](pregnancytracker.png)  
+*"Monitor key milestones and health throughout your pregnancy journey."*
+
+### 🩸 Menstrual Cycle Tracker
+![Menstrual Tracker](mentrualtracker.png)  
+*"Visualize and track your menstrual cycle with easy-to-understand data."*
+
+### 📚 Resources Page
+![Resources](resourcespg.png)  
+*"Educational materials and health-related links at your fingertips."*
+
+### 💡 Tips Page
+![Tips](tipspg.png)  
+*"Curated wellness tips for mental, hormonal, and reproductive health."*
+
+### 🔐 Login Page
+![Login](loginpage.png)  
+*"Simple and secure login to access personalized tracking features."*
+
 ## 🚀 Getting Started Locally
 
 To run this project locally:
@@ -63,7 +93,4 @@ To run this project locally:
 - Open index.html in your browser, or use Live Server if using VS Code.
 ```
 
-## 🌐 Website Preview
 
-### 🏠 Homepage
-![Homepage](Home_pg.png)
