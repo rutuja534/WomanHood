@@ -33,27 +33,27 @@ Whether you're navigating menstrual health, emotional well-being, or pregnancy �
 - 🎨 **HTML, CSS, JavaScript** – Custom enhancements
 - ☁️ **Netlify** – Hosting and deployment
 
-## 📁 Project Structure
+## 🗂️ Project Structure
+
+```plaintext
 WomanHood/
-
+├── .bolt/                # Bolt project metadata
+├── src/                  # Source files and components
 │
-├── .bolt/                 # Bolt project metadata
-├── src/                   # Source files and components
+├── index.html            # Main HTML entry point
+├── README.md             # Project documentation (this file)
+├── .env                  # Environment variables
+├── .gitignore            # Git ignored files
 │
-├── index.html             # Main HTML entry point
-├── README.md              # Project documentation (this file)
-├── .env                   # Environment variables
-├── .gitignore             # Git ignored files
-│
-├── package.json           # Project dependencies
-├── package-lock.json      # Dependency lock file
-├── tailwind.config.js     # Tailwind configuration
-├── postcss.config.js      # PostCSS config for Tailwind
-├── vite.config.ts         # Vite build configuration
-├── tsconfig.json          # TypeScript config
-├── tsconfig.app.json      # App-specific TS config
-└── tsconfig.node.json     # Node-related TS config
-
+├── package.json          # Project dependencies
+├── package-lock.json     # Dependency lock file
+├── tailwind.config.js    # Tailwind CSS configuration
+├── postcss.config.js     # PostCSS config for Tailwind
+├── vite.config.ts        # Vite build configuration
+├── tsconfig.json         # TypeScript config
+├── tsconfig.app.json     # App-specific TS config
+└── tsconfig.node.json    # Node-related TS config
+```
 ## 🚀 Getting Started Locally
 
 To run this project locally:
