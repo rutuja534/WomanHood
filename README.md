@@ -35,9 +35,13 @@ Whether you're navigating menstrual health, emotional well-being, or pregnancy �
 
 ## 📁 Project Structure
 WomanHood/
+
 │
+
 ├── .bolt/                 # Bolt project metadata
+
 ├── src/                   # Source files and components
+
 │
 ├── index.html             # Main HTML entry point
 ├── README.md              # Project documentation (this file)
@@ -62,10 +66,3 @@ To run this project locally:
 - Open index.html in your browser, or use Live Server if using VS Code.
 ```
 
-**## 🌐 Website Preview**
-
-### 🏠 Homepage
-![Homepage](assets/screenshots/homepage.png)
-
-### 🙋 About Page
-![About](assets/screenshots/about.png)
