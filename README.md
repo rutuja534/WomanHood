@@ -61,23 +61,23 @@ WomanHood/
 ![Homepage](Home_pg.png)
 
 ### 💊 Symptom Tracker
-![Symptom Tracker](symptom-tracker.png)  
+![Symptom Tracker](symptom_tracker.png)  
 *"Track your physical symptoms and monitor changes during cycles or pregnancy."*
 
 ### 🤰 Pregnancy Tracker
-![Pregnancy Tracker](pregnancytracker.png)  
+![Pregnancy Tracker](pregnancy_tracker.png)  
 *"Monitor key milestones and health throughout your pregnancy journey."*
 
 ### 🩸 Menstrual Cycle Tracker
-![Menstrual Tracker](mentrualtracker.png)  
+![Menstrual Tracker](mentrual_tracker.png)  
 *"Visualize and track your menstrual cycle with easy-to-understand data."*
 
 ### 📚 Resources Page
-![Resources](resourcespg.png)  
+![Resources](resources_pg.png)  
 *"Educational materials and health-related links at your fingertips."*
 
 ### 💡 Tips Page
-![Tips](tipspg.png)  
+![Tips](tips_pg.png)  
 *"Curated wellness tips for mental, hormonal, and reproductive health."*
 
 ### 🔐 Login Page
