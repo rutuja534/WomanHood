@@ -37,11 +37,8 @@ Whether you're navigating menstrual health, emotional well-being, or pregnancy �
 WomanHood/
 
 │
-
 ├── .bolt/                 # Bolt project metadata
-
 ├── src/                   # Source files and components
-
 │
 ├── index.html             # Main HTML entry point
 ├── README.md              # Project documentation (this file)
