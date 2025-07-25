@@ -88,7 +88,7 @@ WomanHood/
 
 To run this project locally:
 ```bash
-- git clone https://github.com/Umme-2003/WomanHood.git
+- git clone https://github.com/rutuja534/WomanHood.git
 - cd WomanHood
 - Open index.html in your browser, or use Live Server if using VS Code.
 ```
